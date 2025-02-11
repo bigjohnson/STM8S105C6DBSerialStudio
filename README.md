@@ -3,9 +3,7 @@
 
 You must install the STM8S Boards from https://raw.githubusercontent.com/tenbaht/sduino/master/package_sduino_stm8_index.json
 
-The serial out is fom pin 
-
-The adc pins are:
+The serial port out is fom pin
 
 TX CN4 10
 GND CN1 4
