@@ -6,6 +6,7 @@ You must install the STM8S Boards from https://raw.githubusercontent.com/tenbaht
 The serial port out is fom pin
 
 TX CN4 10
+
 GND CN1 4
 
 The adc imputs are on CN3:
